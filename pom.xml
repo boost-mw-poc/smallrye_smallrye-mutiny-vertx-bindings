@@ -72,7 +72,7 @@
         <jackson.version>2.22.1</jackson.version>
         <smallrye-common.version>2.20.0</smallrye-common.version>
 
-        <logback-classic.version>1.5.38</logback-classic.version>
+        <logback-classic.version>1.6.0</logback-classic.version>
         <slf4j-api.version>2.0.18</slf4j-api.version>
         <scram-client.version>3.4</scram-client.version>
 
@@ -83,7 +83,7 @@
         <rxjava2-interop.version>0.13.7</rxjava2-interop.version>
 
         <javaparser.version>3.28.2</javaparser.version>
-        <javapoet.version>0.17.0</javapoet.version>
+        <javapoet.version>0.18.0</javapoet.version>
         <picocli.version>4.7.7</picocli.version>
 
         <testcontainers.version>2.0.5</testcontainers.version>
